@@ -1,0 +1,4 @@
+cloudscraper25
+beautifulsoup4
+aiohttp
+lxml
