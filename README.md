@@ -5,6 +5,7 @@
 ## 安装
 
 ```bash
+pip install requests beautifulsoup4 cloudscraper aiohttp
 git clone https://github.com/soloxiaoye2022/gamemaps_downloads.git
 cd gamemaps_downloads
 pip install -r requirements.txt
