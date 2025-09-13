@@ -1,7 +1,6 @@
 # GameMaps Downloader
 
-从 GameMaps.com 下载地图文件的 Python 工具。
-
+从 GameMaps.com 下载地图文件的 Python 工具。使用3.10以上的版本
 ## 安装
 
 ```bash
